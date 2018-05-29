@@ -1,6 +1,6 @@
 # myproject
 
-> mypriject
+> myproject
 
 ## Build Setup
 
